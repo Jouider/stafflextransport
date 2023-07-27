@@ -25,17 +25,13 @@
 
 <p>Here are some screenshots of the STAFFLEX Transport application:</p>
 
-<style>
-  .screenshot {
-    margin-bottom: 20px;
-  }
-</style>
+
 
 <div style="text-align: center;">
-  <img src="./screenshots/screenshot1.png" alt="Screenshot 1" style="border: 2px solid #ccc; width: 400px;">
+  <img src="./screenshots/Screenshot1.png" alt="Screenshot 1" style="border: 2px solid #ccc; width: 400px;">
 </div>
 <div style="text-align: center;">
-  <img src="./screenshots/screenshot1.png" alt="Screenshot 2" style="border: 2px solid #ccc; width: 400px;">
+  <img src="./screenshots/Screenshot2.png" alt="Screenshot 2" style="border: 2px solid #ccc; width: 400px;">
 </div>
 
 
