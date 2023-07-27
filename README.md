@@ -32,8 +32,8 @@
 </style>
 
 <div style="text-align: center;">
-  <img src="screenshots/screenshot1.png" alt="Screenshot 1" class="screenshot" style="border: 2px solid #ccc; width: 300px;">
-  <img src="screenshots/screenshot2.png" alt="Screenshot 2" class="screenshot" style="border: 2px solid #ccc; width: 300px;">
+  <img src="./screenshots/Screenshot1.png" alt="Screenshot 1" class="screenshot" style="border: 2px solid #ccc; width: 300px;">
+  <img src="./screenshots/Screenshot2.png" alt="Screenshot 2" class="screenshot" style="border: 2px solid #ccc; width: 300px;">
 </div>
 
 <p>For a more in-depth guide on using this STAFFLEX Transport project, please visit the link provided: <a href="http://laravelacademy.org/post/5075.html">this link</a>.</p>
